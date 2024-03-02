@@ -1,0 +1,27 @@
+*{
+    background-color: #f4dfdb;
+}
+
+h2{
+    font-family: "Lobster", sans-serif;
+}
+
+.container{
+    display: flex;
+    gap: 175px;
+    flex-wrap: wrap;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+.bolding{
+    font-weight: 600;
+    color: brown;
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+}
